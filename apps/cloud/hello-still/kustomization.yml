@@ -4,4 +4,4 @@ kind: Kustomization
 namespace: apps
 
 resources:
-- ../../base/hello-again
+- ../../base/hello-still

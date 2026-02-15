@@ -2,7 +2,7 @@
 apiVersion: serving.knative.dev/v1
 kind: Service
 metadata:
-  name: hello-again
+  name: hello-still
 spec:
   template:
     spec:
